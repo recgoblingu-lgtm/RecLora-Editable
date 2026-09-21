@@ -1,0 +1,53 @@
+{
+  "brand": {
+    "name": "RecLora",
+    "tagline": "A clearer way to discover, create, and connect.",
+    "logo": "assets/reclora-logo.png",
+    "accent": "#b87855",
+    "accentSoft": "#f4dfd5"
+  },
+  "announcement": {
+    "label": "Announcement",
+    "text": "RecLora is ready for your next idea.",
+    "linkText": "Explore the latest",
+    "link": "pages/news.html"
+  },
+  "navigation": [
+    ["Home", "index.html"], ["Explore", "pages/explore.html"], ["Rooms", "pages/rooms.html"], ["Events", "pages/events.html"], ["Creators", "pages/creators.html"], ["News", "pages/news.html"]
+  ],
+  "featured": [
+    {"eyebrow":"Featured room","title":"The Main Campus","description":"A welcoming place to meet, wander, and find your next favorite space.","image":"assets/feature-campus.svg","link":"pages/rooms.html"},
+    {"eyebrow":"Creator spotlight","title":"Make something memorable","description":"Share your work, gather feedback, and build an audience around your ideas.","image":"assets/feature-creator.svg","link":"pages/creators.html"},
+    {"eyebrow":"This week","title":"Community events","description":"Find conversations, showcases, and activities worth showing up for.","image":"assets/feature-events.svg","link":"pages/events.html"}
+  ],
+  "announcements": [
+    {"date":"Sep 21","title":"Welcome to RecLora","text":"This is the place for product notes, community updates, and new features."},
+    {"date":"Sep 18","title":"Creator tools are growing","text":"We are making it easier to share projects and keep your audience in the loop."},
+    {"date":"Sep 12","title":"A better way to explore","text":"Collections and categories help you get to the good stuff faster."}
+  ],
+  "pages": {
+    "explore": {"title":"Explore RecLora","intro":"Browse ideas, spaces, and community highlights in one calm, organized place."},
+    "rooms": {"title":"Rooms","intro":"Find spaces to play, collaborate, learn, or simply spend time together."},
+    "events": {"title":"Events","intro":"See what is happening next and save the moments you want to attend."},
+    "creators": {"title":"Creators","intro":"Meet the people shaping RecLora and discover work worth following."},
+    "news": {"title":"News and announcements","intro":"Product updates, community notes, and stories from across RecLora."},
+    "about": {"title":"About RecLora","intro":"RecLora is a community-first place for shared experiences and creative expression."},
+    "contact": {"title":"Contact","intro":"Have a question, idea, or partnership proposal? Start here."},
+    "help": {"title":"Help center","intro":"Simple answers for getting started, finding things, and sharing your work."},
+    "guidelines": {"title":"Community guidelines","intro":"A few clear principles help keep RecLora welcoming and useful."},
+    "safety": {"title":"Safety and privacy","intro":"Learn how RecLora approaches respectful participation and personal information."},
+    "downloads": {"title":"Downloads","intro":"Choose the RecLora experience that fits the way you like to connect."},
+    "membership": {"title":"Membership","intro":"Explore optional ways to support the community and unlock extras."},
+    "creator-studio": {"title":"Creator studio","intro":"Plan, publish, and improve your RecLora projects from one workspace."},
+    "creator-resources": {"title":"Creator resources","intro":"Templates, tips, and practical guides for making great things."},
+    "showcase": {"title":"Showcase","intro":"A rotating collection of work, rooms, and moments from the community."},
+    "collections": {"title":"Collections","intro":"Curated starting points for different moods, interests, and goals."},
+    "search": {"title":"Search","intro":"Look for rooms, creators, events, and stories across RecLora."},
+    "status": {"title":"Service status","intro":"A clear view of current service health and recent maintenance."},
+    "changelog": {"title":"Changelog","intro":"A plain-language record of what is new, improved, and fixed."},
+    "press": {"title":"Press kit","intro":"Brand information and approved assets for sharing RecLora."},
+    "partners": {"title":"Partners","intro":"Learn how organizations can collaborate with the RecLora community."},
+    "terms": {"title":"Terms of use","intro":"The basic terms for using RecLora responsibly."},
+    "accessibility": {"title":"Accessibility","intro":"Our goal is for more people to comfortably participate in RecLora."}
+  }
+}
